@@ -1,7 +1,9 @@
 li{
     background-color: black;
 }
-
 html{
     width: 100%;
+}
+body{
+    background-color: #FFF;
 }
