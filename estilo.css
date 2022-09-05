@@ -1,4 +1,5 @@
 li{
+<<<<<<< HEAD
     background-color: black;
 }
 html{
@@ -6,4 +7,11 @@ html{
 }
 body{
     background-color: #FFF;
+=======
+    background-color: rgb(216, 106, 233);
+}
+
+html{
+    width: 100%;
+>>>>>>> Melina
 }
